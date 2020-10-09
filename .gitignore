@@ -1,0 +1,8 @@
+# Do not distribute Talend Remote Engine archives
+remote-engine/*.tar.gz
+
+# Keep secrets secret
+.env
+
+# Everything else
+.DS_store
